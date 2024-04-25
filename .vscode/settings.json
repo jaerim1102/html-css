@@ -1,0 +1,11 @@
+{
+   "editor.tabSize": 2,
+   "editor.fontSize": 15,
+   "emmet.variables": {
+      "lang": "ko",
+      "charset": "UTF-8"
+   },
+   "emmet.syntaxProfiles": {
+      "html": "xhtml"
+   }
+}
